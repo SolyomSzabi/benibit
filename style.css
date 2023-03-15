@@ -1,0 +1,23 @@
+/* Add any styles you want for the page */
+input[type="text"] {
+	padding: 10px;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	margin-right: 10px;
+}
+button {
+	padding: 10px;
+	background-color: #007bff;
+	color: #fff;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+}
+#results {
+	margin-top: 20px;
+}
+img {
+	max-width: 100%;
+	height: auto;
+	margin-bottom: 10px;
+}
